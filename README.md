@@ -1,2 +1,8 @@
 # LeetCode_Exercise
 LeetCode每日一刷=_=乌拉=_=
+
+Order | Question | Solution
+------- | ------- | -------
+1 | Two Sum | [swift solution](./LeetCodeDemo/1_TwoSum.playground/Contents.swift)
+
+
